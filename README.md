@@ -1,15 +1,15 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://sujeetmaurya.io)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hi 👋, I'm Sujeet Maurya</h1>
 <h3 align="center">A passionate full Stack developer from India (●'◡'●)</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right"  alt="coding" width="350" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=only-sujeet&label=Profile%20views&color=0e75b6&style=flat" alt="only-sujeet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=only-sujeet" alt="only-sujeet" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sujeetmaur9800" target="blank"><img src="https://img.shields.io/twitter/follow/sujeetmaur9800?logo=twitter&style=for-the-badge" alt="sujeetmaur9800" /></a> </p>
 
-- 🔭 I’m currently working on **Live Score**
+- 🔭 I’m currently working on **Live Score Project**
+
+- 🌱 I’m currently learning **.Net Core**
 
 - 👯 I’m looking to collaborate on **MERN Stack Project**
 
